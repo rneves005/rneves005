@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Ricardo
 
-<!--
-**rneves005/rneves005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year **Software Engineering** student at **University of Minho** 🇵🇹  
+🌱 Currently exploring software development and improving my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+- Email: [ricardomiguelcorreiadasnesves@gmail.com](mailto:ricardomiguelcorreiadasnesves@gmail.com)  
+- LinkedIn: [Ricardo's LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rneves05/))  
+
+---
+
+## 💻 Languages & Tools
+
+C, C++, Python, Java, Go, Elixir, Zig
