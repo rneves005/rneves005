@@ -8,10 +8,10 @@
 ## 📫 Contact
 
 - Email: [ricardomiguelcorreiadasnesves@gmail.com](mailto:ricardomiguelcorreiadasnesves@gmail.com)  
-- LinkedIn: [Ricardo's LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rneves05/))  
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/rneves05/)
 
 ---
 
 ## 💻 Languages & Tools
 
-C, C++, Python, Java, Go, Elixir, Zig
+C, Python, Java, Haskell
