@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">I'm currently studying Software Engineering at University of Minho.</h3>
+<h3 align="center">Software Engineer passionate about building scalable software and continuously learning new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
